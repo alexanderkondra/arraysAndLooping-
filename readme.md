@@ -16,7 +16,7 @@ Numbers divisible by 3 are replaced with "I'm sorry, Dave. I'm afraid I can't do
 
 ## Setup/Installation Requirements
 
-clone this repo to your desktop: https://github.com/alexanderkondra/arraysAndLooping-
+Open in browser: https://alexanderkondra.github.io/arraysAndLooping-/
 
 ## Specifications
 
