@@ -1,7 +1,39 @@
 body {
+  font-family: 'Bungee Inline', cursive;
   text-align: left;
+  background-color: #07308C;
+
 }
 
 #result {
   display: none;
+}
+#header {
+  text-align: center;
+  font-family: 'Bungee Shade', cursive;
+  font-size: 100px;
+  color: white;
+}
+img{
+  margin-left: 320px;
+  margin-top: 20px;
+  width: 500px;
+  border-radius: 15px;
+
+}
+.jumbotron {
+  background-color: #07308C;
+}
+.well {
+  background-color: #07308C;
+  border-radius: 15px;
+}
+#textColor {
+  border-radius: 5px;
+  font-size: 25px;
+  background-color: #FEFFFD;
+}
+#result.well{
+  background-color: #FEFFFD;
+  border-radius: 15px;
 }
