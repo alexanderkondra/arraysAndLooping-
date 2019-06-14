@@ -1,0 +1,31 @@
+body {
+  text-align: left;
+}
+
+#result {
+  display: none;
+}
+
+.jumbotron {
+  background-color: rgba(0, 0, 0, 0.6);
+  color: #fff;
+}
+
+.btn-lg {
+  background-color: #fff;
+  color: #000;
+}
+
+.well {
+  background-color: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  width: 400px;
+  
+
+}
+
+.output {
+  width: 350px;
+  display: block;
+  word-wrap: break-word;
+}
